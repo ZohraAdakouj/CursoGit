@@ -1,1 +1,11 @@
-hola
+comandos de git
+
+git commit -m "nombreComit" = agregar un commit a mis cambios
+git add . = añadir cambios a mi haria de trabajo (todos)
+git branch nombreRama = (crear rama nueva)
+git log --oneline = ver todos los comits
+git branch = saber en q rama estoy
+git checkout nombreRama = moverme a otra rama
+
+
+unir 2 ramas o fushionar = marge
